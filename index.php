@@ -7,5 +7,6 @@
 </head>
 <body>
     <p>juste un peu de code</p>
+    <p>du deuxieme commit de c'est page</p>
 </body>
 </html>
